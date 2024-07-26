@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Description of the Project
 
-First, run the development server:
+* This project is a simple Music Learing web application.
+* User can join and learn different types of music.
+* User can also create their own music and share it with other users.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# We have some section to create this project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* We will use Nextjs to develop this project.
+> Frontend
+* 0.1.0 
+> Backend
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 0.1.3
 
-## Learn More
+## Change log
 
-To learn more about Next.js, take a look at the following resources:
+>0.1.3
+* building a featured card section in which cards have the details of all type of music.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+>0.1.2
+* creation of Main/Hero section in which we add the main part of the web application.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+>0.1.1
+* creation of navbar
