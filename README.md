@@ -13,9 +13,12 @@
 * 0.1.0 
 > Backend
 
-- 0.1.3
+- 0.1.4
 
 ## Change log
+
+>0.1.4
+* designing sticky scroll
 
 >0.1.3
 * building a featured card section in which cards have the details of all type of music.
