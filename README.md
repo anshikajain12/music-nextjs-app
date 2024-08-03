@@ -13,9 +13,12 @@
 * 0.1.0 
 > Backend
 
-- 0.1.7
+- 0.1.8
 
 ## Change log
+
+>0.1.8
+* footer section and working on route pages
 
 >0.1.7
 * animated tooltip and wavy background
