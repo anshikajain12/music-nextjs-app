@@ -13,9 +13,12 @@
 * 0.1.0 
 > Backend
 
-- 0.1.5
+- 0.1.6
 
 ## Change log
+
+>0.1.6
+* hover cards
 
 >0.1.5
 * moving cards
