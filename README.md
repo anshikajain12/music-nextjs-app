@@ -13,9 +13,12 @@
 * 0.1.0 
 > Backend
 
-- 0.1.6
+- 0.1.7
 
 ## Change log
+
+>0.1.7
+* animated tooltip and wavy background
 
 >0.1.6
 * hover cards
